@@ -7,7 +7,6 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from shopping_list import (
     ShoppingList,
-    Item,
     InvalidPriceError,
     InvalidItemNameError,
     ItemNotFoundError,

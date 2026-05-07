@@ -4,7 +4,6 @@ from shopping_list import (
     InvalidPriceError,
     InvalidItemNameError,
     ItemNotFoundError,
-    InvalidInputError,
 )
 
 
